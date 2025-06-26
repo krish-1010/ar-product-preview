@@ -50,9 +50,9 @@ This project enables users to preview e-commerce products in their physical envi
 
 ## 📸 Screenshots
 
-![Product List](./screenshots/product-list.png)
-![Download Progress](./screenshots/download-screen.png)
-![AR Preview](./screenshots/ar-preview.png)
+![Product List](./screenshots/product-list.jpeg)
+![Download Progress](./screenshots/download-screen.jpeg)
+![AR Preview](./screenshots/ar-preview.jpeg)
 
 ---
 
